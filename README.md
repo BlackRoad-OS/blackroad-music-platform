@@ -1,26 +1,14 @@
-# 🖤🛣️ BlackRoad Music Platform
+# BlackRoad Music Platform
 
-Part of the BlackRoad Product Empire - 350+ enterprise solutions
+Music streaming and distribution platform for artists and labels.
 
-## 🚀 Quick Start
+## Features
+- **Streaming** - High-quality audio playback
+- **Distribution** - Release to all platforms
+- **Royalties** - Transparent payment tracking
+- **Analytics** - Listener insights
+- **Fan Engagement** - Direct artist-fan connection
+- **Self-Hosted** - Run your own music service
 
-```bash
-./blackroad-music-platform.sh
-```
-
-## 🎨 BlackRoad Design System
-
-- **Hot Pink**: #FF1D6C
-- **Amber**: #F5A623  
-- **Electric Blue**: #2979FF
-- **Violet**: #9C27B0
-
-## 📚 Documentation
-
-Full docs: https://docs.blackroad.io
-
-## 🖤 BlackRoad Empire
-
-Part of 350+ products across 46 categories. Built with ∞ vision.
-
-**BlackRoad OS, Inc.** | Built with Claude
+## License
+Copyright (c) 2026 BlackRoad OS, Inc. Proprietary software.
